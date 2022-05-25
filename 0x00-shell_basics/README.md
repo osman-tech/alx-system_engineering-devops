@@ -19,3 +19,9 @@ DESCRIPTION OF EACH SCRIPT IN EVERY FILE OF DIRECTORY 0x00-shell_basics
 4. 4-listmorefiles
 
    * this file shows the comand to list files in long format even the hidden ones.
+
+5. 5-listfilesdigitonly
+
+   * this files shows us this command "--numeric-uid-gid"
+
+
