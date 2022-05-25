@@ -24,4 +24,6 @@ DESCRIPTION OF EACH SCRIPT IN EVERY FILE OF DIRECTORY 0x00-shell_basics
 
    * this files shows us this command "--numeric-uid-gid"
 
+6. 6-firstdirectory
 
+   * stated the command to create a subdirectory inside a directory
