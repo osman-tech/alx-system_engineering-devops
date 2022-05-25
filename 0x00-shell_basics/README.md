@@ -15,3 +15,7 @@ DESCRIPTION OF EACH SCRIPT IN EVERY FILE OF DIRECTORY 0x00-shell_basics
 4. 3-listfiles
 
    * this tasks shows the command to list files in long format
+
+4. 4-listmorefiles
+
+   * this file shows the comand to list files in long format even the hidden ones.
