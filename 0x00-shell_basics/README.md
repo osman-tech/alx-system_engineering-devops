@@ -12,3 +12,6 @@ DESCRIPTION OF EACH SCRIPT IN EVERY FILE OF DIRECTORY 0x00-shell_basics
 
    * this task file shows the command to home directory
 
+4. 3-listfiles
+
+   * this tasks shows the command to list files in long format
