@@ -45,3 +45,7 @@ DESCRIPTION OF EACH SCRIPT IN EVERY FILE OF DIRECTORY 0x00-shell_basics
 
 
    * moving back to prevous directory: command linux.
+
+11. 11-lists
+
+   * a command that list files from working directory to root and to /boot
