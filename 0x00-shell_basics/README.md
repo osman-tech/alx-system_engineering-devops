@@ -54,3 +54,8 @@ DESCRIPTION OF EACH SCRIPT IN EVERY FILE OF DIRECTORY 0x00-shell_basics
 
 
    * command to show the type of file inside /tmp
+
+13. 13-symbolic_link
+
+   
+   * created a symbolic link
