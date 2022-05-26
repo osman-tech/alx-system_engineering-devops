@@ -33,3 +33,7 @@ GUIDANCE FOR SHELL PERMISSIONS PROJECT
 
 
    * give evry body the permission to execute file hello
+
+9. 8-james_bond
+
+   * chmod 007 of hello
