@@ -7,3 +7,7 @@ GUIDANCE FOR SHELL PERMISSIONS PROJECT
 2. 1-who_am_i
 
   * the command to print the user name of the current user
+
+3. 2-groups
+
+   * command that list all groups of the current user is part
