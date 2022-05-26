@@ -59,3 +59,7 @@ DESCRIPTION OF EACH SCRIPT IN EVERY FILE OF DIRECTORY 0x00-shell_basics
 
    
    * created a symbolic link
+
+14. 14-copy_html
+
+  * comand to copy all html files to the working directory
