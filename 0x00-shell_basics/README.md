@@ -27,3 +27,8 @@ DESCRIPTION OF EACH SCRIPT IN EVERY FILE OF DIRECTORY 0x00-shell_basics
 6. 6-firstdirectory
 
    * stated the command to create a subdirectory inside a directory
+
+7. 7-movethatfile
+
+
+   * a command to mive a file from directory to a directory
