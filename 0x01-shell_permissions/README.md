@@ -24,3 +24,7 @@ GUIDANCE FOR SHELL PERMISSIONS PROJECT
 
    * command to give u permission to x
 
+7.  6-multiple_permissions
+
+
+    *chmod to give multiple permissions on a file
