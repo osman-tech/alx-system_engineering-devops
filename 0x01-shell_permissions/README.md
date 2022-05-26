@@ -15,3 +15,7 @@ GUIDANCE FOR SHELL PERMISSIONS PROJECT
 4. 3-new_owner
 
    * command to change owner
+
+5. 4-empty
+
+   * command to create an empty file
