@@ -37,3 +37,8 @@ GUIDANCE FOR SHELL PERMISSIONS PROJECT
 9. 8-james_bond
 
    * chmod 007 of hello
+
+10. 9-john-DOE
+
+   
+    * executed chmod 713
