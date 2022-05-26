@@ -32,3 +32,7 @@ DESCRIPTION OF EACH SCRIPT IN EVERY FILE OF DIRECTORY 0x00-shell_basics
 
 
    * a command to mive a file from directory to a directory
+
+8.  8-firstdelete
+
+   * this deletes the file betty inside tmp/
