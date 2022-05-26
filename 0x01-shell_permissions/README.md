@@ -28,3 +28,8 @@ GUIDANCE FOR SHELL PERMISSIONS PROJECT
 
 
     *chmod to give multiple permissions on a file
+
+8. 7-everybody
+
+
+   * give evry body the permission to execute file hello
