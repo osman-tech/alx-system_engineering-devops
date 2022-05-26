@@ -45,4 +45,8 @@ GUIDANCE FOR SHELL PERMISSIONS PROJECT
 
 11. 10-mirror_permissions
 
-    * copy one mode to anitje file
+    * copy one mode to anitje fil
+
+12.  11-directories_permissions
+
+    * give all sub directories execute permission for all
