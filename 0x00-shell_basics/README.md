@@ -40,3 +40,8 @@ DESCRIPTION OF EACH SCRIPT IN EVERY FILE OF DIRECTORY 0x00-shell_basics
 9.  9-firstdirdeletion
 
    * deleted directory my_first_directory
+
+10. 10-back
+
+
+   * moving back to prevous directory: command linux.
