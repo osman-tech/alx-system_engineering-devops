@@ -11,3 +11,7 @@ GUIDANCE FOR SHELL PERMISSIONS PROJECT
 3. 2-groups
 
    * command that list all groups of the current user is part
+
+4. 3-new_owner
+
+   * command to change owner
