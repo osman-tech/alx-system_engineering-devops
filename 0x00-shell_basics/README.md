@@ -36,3 +36,7 @@ DESCRIPTION OF EACH SCRIPT IN EVERY FILE OF DIRECTORY 0x00-shell_basics
 8.  8-firstdelete
 
    * this deletes the file betty inside tmp/
+
+9.  9-firstdirdeletion
+
+   * deleted directory my_first_directory
