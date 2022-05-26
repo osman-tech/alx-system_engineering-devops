@@ -42,3 +42,7 @@ GUIDANCE FOR SHELL PERMISSIONS PROJECT
 
    
     * executed chmod 713
+
+11. 10-mirror_permissions
+
+    * copy one mode to anitje file
