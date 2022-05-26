@@ -49,3 +49,8 @@ DESCRIPTION OF EACH SCRIPT IN EVERY FILE OF DIRECTORY 0x00-shell_basics
 11. 11-lists
 
    * a command that list files from working directory to root and to /boot
+
+12.  12-file_type
+
+
+   * command to show the type of file inside /tmp
