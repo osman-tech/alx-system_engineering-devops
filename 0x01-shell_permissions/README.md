@@ -19,3 +19,8 @@ GUIDANCE FOR SHELL PERMISSIONS PROJECT
 5. 4-empty
 
    * command to create an empty file
+
+6. 5-execute
+
+   * command to give u permission to x
+
