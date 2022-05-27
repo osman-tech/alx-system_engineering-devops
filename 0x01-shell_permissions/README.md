@@ -63,3 +63,7 @@ GUIDANCE FOR SHELL PERMISSIONS PROJECT
 15. 100-chang_the_owne_and_group
 
    * changing the owner and group with one command
+
+16. symbolic links
+
+    * Write a script that changes the owner and the group owner of _hello to vincent and staff respectively.
