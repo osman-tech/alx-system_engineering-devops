@@ -59,3 +59,7 @@ GUIDANCE FOR SHELL PERMISSIONS PROJECT
 
 
    * change group owner of file hello
+
+15. 100-chang_the_owne_and_group
+
+   * changing the owner and group with one command
