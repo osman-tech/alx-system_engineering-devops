@@ -50,3 +50,7 @@ GUIDANCE FOR SHELL PERMISSIONS PROJECT
 12.  11-directories_permissions
 
     * give all sub directories execute permission for all
+
+13. 12-directory_permissions
+
+    * create and give a directory permissions in one line
