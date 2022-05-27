@@ -63,3 +63,7 @@ DESCRIPTION OF EACH SCRIPT IN EVERY FILE OF DIRECTORY 0x00-shell_basics
 14. 14-copy_html
 
   * comand to copy all html files to the working directory
+
+15. symbolic links
+
+   * Write a script that changes the owner and the group owner of _hello to vincent and staff respectively.
