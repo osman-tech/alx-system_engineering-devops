@@ -72,4 +72,8 @@ DESCRIPTION OF EACH SCRIPT IN EVERY FILE OF DIRECTORY 0x00-shell_basics
 
 17. clean emacs
 
-    Create a script that deletes all files in the current working directory that end with the character ~. 
+    Create a script that deletes all files in the current working directory that end with the character ~.
+
+18.  102-tree
+
+  Create a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory. 
