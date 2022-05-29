@@ -66,4 +66,6 @@ DESCRIPTION OF EACH SCRIPT IN EVERY FILE OF DIRECTORY 0x00-shell_basics
 
 15. symbolic links
 
-   * Write a script that changes the owner and the group owner of _hello to vincent and staff respectively.
+    Write a script that changes the owner and the group owner of _hello to vincent and staff respectively.
+
+16. Create a script that moves all files beginning with an uppercase letter to the directory /tmp/u. 
