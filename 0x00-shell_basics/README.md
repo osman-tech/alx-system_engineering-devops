@@ -68,4 +68,8 @@ DESCRIPTION OF EACH SCRIPT IN EVERY FILE OF DIRECTORY 0x00-shell_basics
 
     Write a script that changes the owner and the group owner of _hello to vincent and staff respectively.
 
-16. Create a script that moves all files beginning with an uppercase letter to the directory /tmp/u. 
+16. Create a script that moves all files beginning with an uppercase letter to the directory /tmp/u.
+
+17. clean emacs
+
+    Create a script that deletes all files in the current working directory that end with the character ~. 
