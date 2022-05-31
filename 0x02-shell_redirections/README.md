@@ -50,6 +50,15 @@ The file iacta will be in the working directory
    * Write a script that counts the number of directories and sub-directories in the current directory.
 
 The current and parent directories should not be taken into account
-Hidden directories should be counted   
+Hidden directories should be counted
+
+12. 12-newest_files
+
+  * Create a script that displays the 10 newest files in the current directory.
+
+Requirements:
+
+One file per line
+Sorted from the newest to the oldest   
 
   
