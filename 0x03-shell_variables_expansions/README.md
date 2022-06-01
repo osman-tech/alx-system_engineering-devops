@@ -23,4 +23,13 @@ Value: rm *
 
 5. 5-local_variables
 
-   * Create a script that lists all local variables and environment variables, and functions. 
+   * Create a script that lists all local variables and environment variables, and functions.
+
+6.  6-create_local_variable
+
+   * Create a script that creates a new local variable.
+
+Name: BEST
+Value: School
+
+ 
